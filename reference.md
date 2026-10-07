@@ -188,7 +188,7 @@ Blocks go inside sections that accept theme blocks, such as the product page, Cu
 ### Product text
 
 - **Presets**: Instructions, Ingredients
-- **Settings**: Heading, Text, Display, Open by default
+- **Settings**: Heading, Source, Text, Display, Open by default
 
 ### Annotated image
 
@@ -273,7 +273,7 @@ Blocks go inside sections that accept theme blocks, such as the product page, Cu
 ### Linked products
 
 - **Presets**: Versions, Rotation, Alternatives, In the box, Compatible products
-- **Settings**: Heading, Products, Style, Fields
+- **Settings**: Heading, Source, Products, Style, Fields
 
 ### Use profile
 
