@@ -15,6 +15,12 @@ All notable changes to the AERUN theme are documented here. The format follows [
 
 First release, for the Shopify Theme Store.
 
+### Compatibility
+
+- Online Store 2.0 only: JSON templates, section groups and theme blocks.
+- Running data is optional: without the `aerun` metafields and metaobjects, the running blocks stay hidden and the theme works as a standard store. The data guide lists the definitions to create.
+- No migration: first release.
+
 ### Added
 
 - **Presets**: Aerun (road), Ridge (trail) and Interval (training), built on the same sections and blocks, each with five color schemes that pass WCAG AA contrast.
@@ -26,4 +32,3 @@ First release, for the Shopify Theme Store.
 - **Cart extras**: free shipping progress per currency, gift message, club reference, add-on product, reassurance.
 - **Demo**: a demo data set and setup script for the Shopify Admin API.
 
-[1.0.0]: https://github.com/ZukaBri3k/aerun-theme
